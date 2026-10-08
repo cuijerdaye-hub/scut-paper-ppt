@@ -1,0 +1,24 @@
+[
+  {
+    "page": 1,
+    "width": 347,
+    "path": "scut-logo-blue.png",
+    "relationship": "rId2",
+    "bytes": 6859,
+    "height": 96,
+    "part": "ppt/media/image2.png",
+    "name": "scut-logo-blue.png",
+    "use": "蓝色校徽与校名组合"
+  },
+  {
+    "page": 7,
+    "width": 1685,
+    "path": "scut-campus.jpg",
+    "relationship": "rId1",
+    "bytes": 274695,
+    "height": 1124,
+    "part": "ppt/media/image26.jpeg",
+    "name": "scut-campus.jpg",
+    "use": "红砖校园建筑封面照片"
+  }
+]

@@ -1,0 +1,1736 @@
+{
+  "title": "文献综述方法论：路径、流程与质量",
+  "reference": "Snyder, H. (2019). Literature review as a research methodology: An overview and guidelines. Journal of Business Research, 104, 333–339.",
+  "doi": "https://doi.org/10.1016/j.jbusres.2019.07.039",
+  "template": "../assets/scut-blue-template.pptx",
+  "slides": [
+    {
+      "templateSlide": 7,
+      "title": "文献综述\n作为研究方法",
+      "source": "摘要与第1节，pp.333–334",
+      "notes": "这篇文章讨论文献综述怎样作为一项独立研究。汇报围绕三个问题展开：选什么综述方法，如何组织可信的实施过程，以及怎样把综合结果转化为研究贡献。",
+      "edits": [
+        {
+          "name": "文本框 10",
+          "text": "文献综述作为研究方法",
+          "fontSize": 44,
+          "bold": true,
+          "color": "#FFFFFF",
+          "position": {
+            "left": 725.44,
+            "top": 228,
+            "width": 519.92,
+            "height": 80
+          },
+          "align": "center"
+        },
+        {
+          "name": "文本框 2",
+          "text": "Literature Review Methodology",
+          "fontSize": 20,
+          "color": "#FFFFFF",
+          "position": {
+            "left": 762.33,
+            "top": 340,
+            "width": 469.4,
+            "height": 39
+          },
+          "align": "center"
+        },
+        {
+          "name": "文本框 8",
+          "text": "Snyder（2019）",
+          "fontSize": 20,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "文本框 9",
+          "text": "学术论文汇报",
+          "fontSize": 20,
+          "color": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "templateSlide": 11,
+      "title": "研究问题与论文定位",
+      "source": "Snyder（2019），§1–2，pp.333–334。",
+      "notes": "知识增长、跨学科发展和研究传统分散，使研究者难以仅凭少量熟悉的文献判断领域全貌。作者批评随意选取证据的综述做法，指出这可能忽略相反研究，影响后续问题与假设的基础。本文是一篇方法概览与实践指南：通过比较常见路径、归纳实施步骤和质量评价问题，帮助研究者把文献综述作为独立研究来设计。本文没有报告新的实证样本或效应估计。",
+      "edits": [
+        {
+          "name": "文本框 5",
+          "text": "01",
+          "fontSize": 56,
+          "color": "#C9DCEE"
+        },
+        {
+          "name": "文本框 6",
+          "text": "问题定位",
+          "fontSize": 65,
+          "bold": true,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "文本框 7",
+          "text": "把分散研究转化为可评价的整体证据",
+          "fontSize": 24,
+          "color": "#E1EBF7",
+          "position": {
+            "left": 67.64,
+            "top": 365.57,
+            "width": 485,
+            "height": 46
+          }
+        },
+        {
+          "name": "文本框 8",
+          "text": "知识增长与学科分散，使单篇研究难以呈现领域全貌。\n随意选择文献可能遗漏相反证据，影响结论可信度。\n本文比较综述路径，并归纳实施流程与质量评价问题。",
+          "fontSize": 25,
+          "color": "#FFFFFF",
+          "position": {
+            "left": 67.64,
+            "top": 433,
+            "width": 516,
+            "height": 225
+          }
+        },
+        {
+          "name": "文本框 9",
+          "text": "SCUT\nPAPER REVIEW",
+          "fontSize": 13,
+          "color": "#E1EBF7"
+        }
+      ]
+    },
+    {
+      "templateSlide": 17,
+      "title": "三类常用综述的研究侧重",
+      "source": "表1及第2.1.1–2.1.3节，pp.334–336",
+      "notes": "系统综述重在特定问题的证据判断；半系统综述适合厘清宽泛领域的发展；整合综述面向概念与理论创造。三类方法都需要说明材料如何被选择和分析。 三类只是常见方法，并非穷尽分类；不同方法的要素也可按研究问题组合使用。",
+      "edits": [
+        {
+          "name": "文本框 3",
+          "text": "三类常用综述",
+          "fontSize": 34,
+          "bold": true,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 72.54,
+            "top": 44,
+            "width": 820,
+            "height": 50
+          }
+        },
+        {
+          "name": "文本框 4",
+          "text": "各类方法并非互斥，可按研究问题组合使用。",
+          "fontSize": 17,
+          "color": "#566273",
+          "position": {
+            "left": 78.18,
+            "top": 99,
+            "width": 850,
+            "height": 31
+          }
+        },
+        {
+          "name": "文本框 19",
+          "text": "系统综述",
+          "fontSize": 28,
+          "bold": true
+        },
+        {
+          "name": "文本框 20",
+          "text": "围绕具体问题筛选证据；\n采用定量或定性综合；\n元分析需合适的数据条件。",
+          "fontSize": 22
+        },
+        {
+          "name": "文本框 22",
+          "text": "效果证据",
+          "fontSize": 19,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "文本框 24",
+          "text": "01",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "文本框 28",
+          "text": "半系统综述",
+          "fontSize": 28,
+          "bold": true,
+          "position": {
+            "left": 456.91,
+            "top": 425.42,
+            "width": 335,
+            "height": 42
+          }
+        },
+        {
+          "name": "文本框 29",
+          "text": "适合跨学科的宽泛主题；\n以主题或内容分析梳理\n领域的发展与知识结构。",
+          "fontSize": 22
+        },
+        {
+          "name": "文本框 31",
+          "text": "知识图景",
+          "fontSize": 19,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "文本框 32",
+          "text": "02",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "文本框 33",
+          "text": "整合综述",
+          "fontSize": 28,
+          "bold": true
+        },
+        {
+          "name": "文本框 34",
+          "text": "批判并连接不同研究观点；\n重组概念之间的关系，\n形成新的框架或理论命题。",
+          "fontSize": 22
+        },
+        {
+          "name": "文本框 36",
+          "text": "概念框架",
+          "fontSize": 19,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "文本框 37",
+          "text": "03",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "templateSlide": 16,
+      "title": "系统综述：明确问题与证据判断",
+      "source": "Snyder（2019），第334—335页，§2.1.1；第336页，§2.2。",
+      "notes": "系统综述首先是一套识别、评估和综合研究证据的方法。元分析则是其中可以采用的一种统计技术：先提取和编码原始研究，再把结果转换为可比较的共同指标，以估计总体效应。因此，系统综述不必然使用元分析；不同研究缺乏可比指标时，不能简单合并。原文还介绍了定性系统综述，即坚持严格的系统检索流程，再以定性方式比较研究发现。汇报时应同时交代研究质量、效应的一致性，以及结论适用的情境。",
+      "edits": [
+        {
+          "name": "文本框 3",
+          "text": "系统综述：明确问题与证据判断",
+          "fontSize": 34,
+          "bold": true,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 72.54,
+            "top": 44,
+            "width": 865,
+            "height": 51
+          }
+        },
+        {
+          "name": "文本框 4",
+          "text": "系统综述是一套研究流程，元分析是可按条件采用的统计技术。",
+          "fontSize": 17,
+          "color": "#566273",
+          "position": {
+            "left": 78.18,
+            "top": 100,
+            "width": 895,
+            "height": 43
+          }
+        },
+        {
+          "name": "矩形 23",
+          "text": "适用问题",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 26",
+          "text": "材料与检索",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 41",
+          "text": "分析步骤",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 38",
+          "text": "贡献与局限",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 25",
+          "text": "适合边界清晰、可明确判断纳入范围的问题，例如特定因素是否有效、两个变量有何关系，以及不同研究的结论是否一致。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        },
+        {
+          "name": "矩形 27",
+          "text": "预先规定纳入标准，系统识别符合条件的实证研究，并批判性评估研究质量。明确记录检索与筛选过程，使证据选择可追溯。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        },
+        {
+          "name": "矩形 42",
+          "text": "提取研究特征并比较发现；研究设计与效应指标适合时，可考虑元分析合并效应量。也可定性综合研究发现的异同和证据强度。",
+          "fontSize": 23,
+          "color": "#FFFFFF",
+          "vertical": "middle",
+          "position": {
+            "left": 307.27,
+            "top": 416,
+            "width": 465.33,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 39",
+          "text": "可检验效应是否跨研究成立，并探究情境或样本特征与结果差异的关系。研究质量与指标可比性，会限制综合结论的可靠程度。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        }
+      ]
+    },
+    {
+      "templateSlide": 15,
+      "title": "半系统综述：梳理跨学科脉络",
+      "source": "Snyder（2019），第335页，§2.1.2；第336页，§2.2。",
+      "notes": "半系统综述面对的是广泛、分散且术语不统一的领域。它通常先识别有助于理解主题的研究传统，再通过主题分析或内容分析建立联系，说明哪些概念持续存在、哪些问题仍未解决。这里的灵活性需要研究者提出适合该问题的详细方案，并解释文献为何被选择、分析判断如何形成。读者应能据此判断覆盖范围和论证是否合理。原文也提到半系统收集与统计元分析结合的案例，因此不能仅凭是否量化分析来划分综述类型。",
+      "edits": [
+        {
+          "name": "文本框 3",
+          "text": "半系统综述：梳理跨学科脉络",
+          "fontSize": 34,
+          "bold": true,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 72.54,
+            "top": 44,
+            "width": 865,
+            "height": 51
+          }
+        },
+        {
+          "name": "文本框 4",
+          "text": "领域广泛、术语不统一时，研究方案需要适应不同研究传统。",
+          "fontSize": 17,
+          "color": "#566273",
+          "position": {
+            "left": 78.18,
+            "top": 100,
+            "width": 895,
+            "height": 43
+          }
+        },
+        {
+          "name": "矩形 8",
+          "text": "适用问题与覆盖范围",
+          "fontSize": 30,
+          "bold": true,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 9",
+          "text": "适合同一主题在不同学科中概念化方式不同、研究传统分散的问题，用于理解领域如何发展，以及各类研究之间的联系与差异。",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 17",
+          "text": "材料与检索",
+          "fontSize": 25,
+          "bold": true,
+          "position": {
+            "left": 78.4,
+            "top": 511,
+            "width": 306,
+            "height": 40
+          }
+        },
+        {
+          "name": "矩形 12",
+          "text": "分析步骤",
+          "fontSize": 25,
+          "bold": true,
+          "color": "#183B5C",
+          "position": {
+            "left": 509.07,
+            "top": 511,
+            "width": 302,
+            "height": 40
+          }
+        },
+        {
+          "name": "矩形 22",
+          "text": "贡献与局限",
+          "fontSize": 25,
+          "bold": true,
+          "position": {
+            "left": 885.54,
+            "top": 511,
+            "width": 318,
+            "height": 40
+          }
+        },
+        {
+          "name": "矩形 18",
+          "text": "针对研究传统设计检索与筛选策略；说明范围调整和选择依据，让读者能够评估覆盖范围与判断是否合理。",
+          "fontSize": 21.5,
+          "position": {
+            "left": 78.4,
+            "top": 551,
+            "width": 306,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 13",
+          "text": "通过主题分析或内容分析识别概念、理论视角和共同议题；比较不同研究传统，解释知识脉络及其变化。",
+          "fontSize": 21.5,
+          "color": "#183B5C",
+          "position": {
+            "left": 509.07,
+            "top": 551,
+            "width": 302,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 24",
+          "text": "可形成领域地图、主题分类、历史演进和研究议程。步骤需按项目设计，尤其依赖详细方案与透明记录。",
+          "fontSize": 21.5,
+          "position": {
+            "left": 885.54,
+            "top": 551,
+            "width": 318,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 20",
+          "text": "01",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 15",
+          "text": "02",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 29",
+          "text": "03",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "templateSlide": 16,
+      "title": "整合综述：批判与理论综合",
+      "source": "Snyder（2019），第334页，表1；第335—336页，§2.1.3；第336页，§2.2。",
+      "notes": "整合综述的关键产出是理论推进。对成熟主题，研究者先梳理已有知识，再批判性审视并可能重新概念化，扩展原有理论基础；对新兴主题，则更多是在知识尚未成形时提出初步概念与理论模型。材料选择可以跨学科，也可以包括书籍等公开文本，但必须解释选择与分析过程。完成阅读摘要尚不足以构成整合，研究者需要展示不同观点如何被联系起来，以及新框架解决了什么问题。原文同时提醒，这类工作常见的不足是透明性欠缺或缺少真正的整合。",
+      "edits": [
+        {
+          "name": "文本框 3",
+          "text": "整合综述：批判与理论综合",
+          "fontSize": 34,
+          "bold": true,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 72.54,
+            "top": 44,
+            "width": 865,
+            "height": 51
+          }
+        },
+        {
+          "name": "文本框 4",
+          "text": "成熟领域着重重构已有理论，新兴领域着重建立初步概念。",
+          "fontSize": 17,
+          "color": "#566273",
+          "position": {
+            "left": 78.18,
+            "top": 100,
+            "width": 895,
+            "height": 43
+          }
+        },
+        {
+          "name": "矩形 23",
+          "text": "适用问题",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 26",
+          "text": "材料与检索",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 41",
+          "text": "分析步骤",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 38",
+          "text": "贡献与局限",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 25",
+          "text": "适合以理论发展为目标的问题。成熟领域着重批判、重构并扩展既有理论；新兴领域着重形成初步概念与理论模型。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        },
+        {
+          "name": "矩形 27",
+          "text": "围绕理论问题组合不同领域与研究传统的观点，材料可含论文、书籍和其他公开文本。须说明选择理由及其与研究目标的关系。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        },
+        {
+          "name": "矩形 42",
+          "text": "批判性检视核心概念、主要观点及其相互关系，再综合不同视角，提出新的概念化方式。分析过程及关键判断须清楚记录和报告。",
+          "fontSize": 23,
+          "color": "#FFFFFF",
+          "vertical": "middle",
+          "position": {
+            "left": 307.27,
+            "top": 416,
+            "width": 465.33,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 39",
+          "text": "目标是形成新的分类、概念框架或理论，推动知识发展。可依循的统一步骤较少，对概念思维、整合能力和论证透明性要求较高。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        }
+      ]
+    },
+    {
+      "templateSlide": 15,
+      "title": "原文案例：问题决定分析路径",
+      "source": "Snyder（2019），§3.3，p. 337；方法选择原则参见 §2.2，p. 336。",
+      "notes": "原文使用两个简短例子解释分析方法的选择。如果我们要判断忠诚计划是否有效，关注的是效应证据，因此作者建议元分析。如果我们要为顾客体验建立理论模型，关注的则是概念和观点之间的关系，应使用适合整合综述的分析技术。这两个例子帮助我们沿着研究问题、信息需求和分析方法的顺序作出决定。综述设计的关键，是先明确研究问题与所需证据类型，再选择适合的路径与证据处理方式。",
+      "edits": [
+        {
+          "name": "文本框 3",
+          "text": "原文案例：问题决定分析路径",
+          "fontSize": 34,
+          "bold": true,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 72.54,
+            "top": 44,
+            "width": 865,
+            "height": 51
+          }
+        },
+        {
+          "name": "文本框 4",
+          "text": "忠诚计划的效果评价，与顾客体验的框架构建，追求不同答案。",
+          "fontSize": 17,
+          "color": "#566273",
+          "position": {
+            "left": 78.18,
+            "top": 100,
+            "width": 895,
+            "height": 43
+          }
+        },
+        {
+          "name": "矩形 8",
+          "text": "从研究目标出发选择方法",
+          "fontSize": 30,
+          "bold": true,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 9",
+          "text": "效应判断关注结果是否成立及其适用条件；理论构建关注概念之间的联系。材料如何提取、结果如何综合，都应由目标决定。",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 17",
+          "text": "忠诚计划效应",
+          "fontSize": 25,
+          "bold": true,
+          "position": {
+            "left": 78.4,
+            "top": 511,
+            "width": 306,
+            "height": 40
+          }
+        },
+        {
+          "name": "矩形 12",
+          "text": "顾客体验框架",
+          "fontSize": 25,
+          "bold": true,
+          "color": "#183B5C",
+          "position": {
+            "left": 509.07,
+            "top": 511,
+            "width": 302,
+            "height": 40
+          }
+        },
+        {
+          "name": "矩形 22",
+          "text": "选型判断顺序",
+          "fontSize": 25,
+          "bold": true,
+          "position": {
+            "left": 885.54,
+            "top": 511,
+            "width": 318,
+            "height": 40
+          }
+        },
+        {
+          "name": "矩形 18",
+          "text": "评价忠诚计划效果，目标是综合效应证据。原文建议元分析；实际使用时还须检查研究设计与指标的可比性。",
+          "fontSize": 21.5,
+          "position": {
+            "left": 78.4,
+            "top": 551,
+            "width": 306,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 13",
+          "text": "发展顾客体验模型，目标是连接概念和理论视角。应采用适合整合综述的分析，以形成框架和解释。",
+          "fontSize": 21.5,
+          "color": "#183B5C",
+          "position": {
+            "left": 509.07,
+            "top": 551,
+            "width": 302,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 24",
+          "text": "先明确研究问题与所需证据类型，再选择综述路径、提取内容及分析技术。原文例子用于说明方法，未报告新实证结果。",
+          "fontSize": 21.5,
+          "position": {
+            "left": 885.54,
+            "top": 551,
+            "width": 318,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 20",
+          "text": "01",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 15",
+          "text": "02",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 29",
+          "text": "03",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "templateSlide": 8,
+      "title": "四阶段研究流程",
+      "source": "Snyder（2019），§3、表3，p.336；§3.1–3.4，pp.336–337。",
+      "notes": "作者综合既有指南和实践经验，把综述组织为设计、执行、分析和写作四个相连阶段。设计明确目的与方案，执行形成合适样本，分析产生综合发现，写作让读者理解研究过程及其贡献。这些阶段不是只需按顺序完成的手续：前面的选择会影响后续结果，因此需要在各阶段持续说明决策依据。下面的页面分别展开其操作与质量要求。",
+      "edits": [
+        {
+          "name": "文本框 6",
+          "text": "研究流程",
+          "fontSize": 60,
+          "color": "#FFFFFF",
+          "position": {
+            "left": 67.29,
+            "top": 134.62,
+            "width": 340,
+            "height": 107
+          }
+        },
+        {
+          "name": "文本框 9",
+          "text": "Process",
+          "fontSize": 40,
+          "color": "#FFFFFF",
+          "position": {
+            "left": 430,
+            "top": 165.39,
+            "width": 400,
+            "height": 75
+          }
+        },
+        {
+          "name": "文本框 7",
+          "text": "设计、执行、分析与写作相互衔接；每一阶段都要说明关键决定及其依据。",
+          "fontSize": 23,
+          "color": "#FFFFFF",
+          "position": {
+            "left": 81.85,
+            "top": 246.18,
+            "width": 790,
+            "height": 65
+          }
+        },
+        {
+          "name": "文本框 13",
+          "text": "01",
+          "fontSize": 31,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 14",
+          "text": "设计",
+          "fontSize": 27,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 15",
+          "text": "明确问题与受众",
+          "fontSize": 20,
+          "color": "#536275",
+          "height": 31
+        },
+        {
+          "name": "文本框 16",
+          "text": "选择方法与检索策略\n预设纳入排除条件",
+          "fontSize": 20.5,
+          "color": "#26384F",
+          "height": 82
+        },
+        {
+          "name": "文本框 52",
+          "text": "02",
+          "fontSize": 31,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 53",
+          "text": "执行",
+          "fontSize": 27,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 54",
+          "text": "形成合适样本",
+          "fontSize": 20,
+          "color": "#536275",
+          "height": 31
+        },
+        {
+          "name": "文本框 55",
+          "text": "先试检索再正式筛选\n记录样本选择过程",
+          "fontSize": 20.5,
+          "color": "#26384F",
+          "height": 82
+        },
+        {
+          "name": "文本框 58",
+          "text": "03",
+          "fontSize": 31,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 59",
+          "text": "分析",
+          "fontSize": 27,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 60",
+          "text": "形成综合发现",
+          "fontSize": 20,
+          "color": "#536275",
+          "height": 31
+        },
+        {
+          "name": "文本框 61",
+          "text": "统一提取与编码\n匹配问题开展综合",
+          "fontSize": 20.5,
+          "color": "#26384F",
+          "height": 82
+        },
+        {
+          "name": "文本框 64",
+          "text": "04",
+          "fontSize": 31,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 65",
+          "text": "写作",
+          "fontSize": 27,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 66",
+          "text": "解释研究贡献",
+          "fontSize": 20,
+          "color": "#536275",
+          "height": 31
+        },
+        {
+          "name": "文本框 67",
+          "text": "透明报告研究方法\n说明结果及新增认识",
+          "fontSize": 20.5,
+          "color": "#26384F",
+          "height": 82
+        }
+      ]
+    },
+    {
+      "templateSlide": 16,
+      "title": "设计综述：问题与检索边界",
+      "source": "Snyder（2019），§3.1，pp. 336–337；表 3，p. 336。",
+      "notes": "作者把设计视为决定综述质量的起点。首先要判断新综述是否必要，而不是直接开始搜集文献。已有综述、潜在读者和研究规模共同帮助我们界定问题，再由问题决定方法与检索策略。年份、语言、期刊等限制并非不能使用，但都需要解释其合理性。原文特别提醒，随意收紧检索词或期刊范围，可能遗漏相关甚至相反的证据，进而误判研究空白或效应。",
+      "edits": [
+        {
+          "name": "文本框 3",
+          "text": "设计综述：问题与检索边界",
+          "fontSize": 34,
+          "bold": true,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 72.54,
+            "top": 44,
+            "width": 865,
+            "height": 51
+          }
+        },
+        {
+          "name": "文本框 4",
+          "text": "先明确要解释什么，再确定怎样寻找和选择证据",
+          "fontSize": 17,
+          "color": "#566273",
+          "position": {
+            "left": 78.18,
+            "top": 100,
+            "width": 895,
+            "height": 43
+          }
+        },
+        {
+          "name": "矩形 23",
+          "text": "确认研究必要",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 26",
+          "text": "选择综述路径",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 41",
+          "text": "制定检索策略",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 38",
+          "text": "解释纳排依据",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 25",
+          "text": "先浏览领域已有综述与研究规模，明确本次综述面向谁、补充什么知识，并据此界定研究目的、范围及具体问题。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        },
+        {
+          "name": "矩形 27",
+          "text": "研究问题需要综合具体因素的效应时，应采用系统综述；若需跨领域概览或发展理论，则考虑半系统或整合路径。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        },
+        {
+          "name": "矩形 42",
+          "text": "围绕问题中的词语与概念设计检索词，选择适合的数据库，并根据综述目的决定检索范围，避免随意压缩证据来源。",
+          "fontSize": 23,
+          "color": "#FFFFFF",
+          "vertical": "middle",
+          "position": {
+            "left": 307.27,
+            "top": 416,
+            "width": 465.33,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 39",
+          "text": "发表年份、语言、文献类型与期刊均可作为筛选条件，但每项限制都要有合理依据，并在正式执行前记录相关决定。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        }
+      ]
+    },
+    {
+      "templateSlide": 14,
+      "title": "样本边界与选择偏差",
+      "source": "Snyder（2019），§3.1、p.337；§4–5、p.338。",
+      "notes": "纳入与排除条件直接决定可见的证据范围，因此会改变研究结论。原文列举的边界包括年份、语言、文章类型与期刊，但要求所有限制都有与研究问题相关的理由。仅为了减轻工作量而缩小范围，可能排除相关或相反发现，造成对效应或研究空白的误判。面对过大的文献集合，应先重新审视研究问题，再作有依据的范围调整。",
+      "edits": [
+        {
+          "name": "文本框 1",
+          "text": "09",
+          "fontSize": 56,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 2",
+          "text": "样本边界",
+          "fontSize": 65,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 3",
+          "text": "范围限制会改变我们看到的证据",
+          "fontSize": 24,
+          "color": "#57687B",
+          "position": {
+            "left": 67.64,
+            "top": 365,
+            "width": 485,
+            "height": 47
+          }
+        },
+        {
+          "name": "文本框 13",
+          "text": "年份、语言、类型和期刊限制，均须说明与问题的关系。\n过度缩小范围，可能遗漏相关领域或相反的研究发现。\n文献过多时，先重新聚焦问题，再确定合理的样本边界。",
+          "fontSize": 25,
+          "color": "#25364B",
+          "position": {
+            "left": 67.64,
+            "top": 433,
+            "width": 492,
+            "height": 218
+          }
+        },
+        {
+          "name": "文本框 14",
+          "text": "SCUT\nPAPER REVIEW",
+          "fontSize": 13,
+          "color": "#566273"
+        }
+      ]
+    },
+    {
+      "templateSlide": 15,
+      "title": "执行综述：从试检索到最终样本",
+      "source": "Snyder（2019），§3.2，p. 337；表 3，p. 336；表 4，p. 338。",
+      "notes": "检索方案应先接受小规模测试，必要时调整，而不是预先写完便直接使用。正式筛选可以选择全文阅读，也可以按摘要、全文的顺序分阶段完成，关键是保证最终样本满足纳入条件。作者建议采用两位评审者提升可靠性，并完整记录纳入和排除过程。原文也讨论了追溯参考文献的补充策略，但对系统综述强调更严格的预设程序，因此不能把补充检索理解为任意扩充样本。",
+      "edits": [
+        {
+          "name": "文本框 3",
+          "text": "执行综述：从试检索到最终样本",
+          "fontSize": 34,
+          "bold": true,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 72.54,
+            "top": 44,
+            "width": 865,
+            "height": 51
+          }
+        },
+        {
+          "name": "文本框 4",
+          "text": "将检索方案转化为可以追溯的筛选过程",
+          "fontSize": 17,
+          "color": "#566273",
+          "position": {
+            "left": 78.18,
+            "top": 100,
+            "width": 895,
+            "height": 43
+          }
+        },
+        {
+          "name": "矩形 8",
+          "text": "把方案落实为可核查的筛选决定",
+          "fontSize": 30,
+          "bold": true,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 9",
+          "text": "先检验方案能否得到适当文献，再开展正式筛选。筛选路径可以因综述范围而不同，但最终样本必须满足研究目的与纳入标准。",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 17",
+          "text": "小样本试运行",
+          "fontSize": 25,
+          "bold": true,
+          "position": {
+            "left": 78.4,
+            "top": 511,
+            "width": 306,
+            "height": 40
+          }
+        },
+        {
+          "name": "矩形 12",
+          "text": "分阶段筛选",
+          "fontSize": 25,
+          "bold": true,
+          "color": "#183B5C",
+          "position": {
+            "left": 509.07,
+            "top": 511,
+            "width": 302,
+            "height": 40
+          }
+        },
+        {
+          "name": "矩形 22",
+          "text": "复核并留记录",
+          "fontSize": 25,
+          "bold": true,
+          "position": {
+            "left": 885.54,
+            "top": 511,
+            "width": 318,
+            "height": 40
+          }
+        },
+        {
+          "name": "矩形 18",
+          "text": "先用较小样本测试检索词和纳入标准，检查能否得到适当文献；根据结果调整流程，再开始正式筛选最终研究样本。",
+          "fontSize": 21.5,
+          "position": {
+            "left": 78.4,
+            "top": 551,
+            "width": 306,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 13",
+          "text": "可以先读摘要进行初筛，再阅读全文作最终判断；具体做法取决于文献规模与综述范围，入选文献仍需核查全文。",
+          "fontSize": 21.5,
+          "color": "#183B5C",
+          "position": {
+            "left": 509.07,
+            "top": 551,
+            "width": 302,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 24",
+          "text": "作者建议由两位评审者筛选以提高可靠性，同时记录文献纳入与排除的过程，使读者能判断样本是否符合研究目的。",
+          "fontSize": 21.5,
+          "position": {
+            "left": 885.54,
+            "top": 551,
+            "width": 318,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 20",
+          "text": "01",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 15",
+          "text": "02",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 29",
+          "text": "03",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "templateSlide": 16,
+      "title": "信息提取：从文献到分析材料",
+      "source": "Snyder（2019），§3.3，p. 337；表 3，p. 336；表 4，p. 338。",
+      "notes": "文献选定后，还需要把分散文本转成能够比较和综合的材料。作者没有规定一张通用数据表，而是要求信息提取服务于研究问题。发表年份、作者和研究类型适合描述样本；效应、主要发现、概念或理论则用于回答核心问题。原文指出，样本量等信息相对容易提取，主题、研究视角和历史脉络则更依赖判断。因此，多人参与时要训练评审者、监测编码，并交代可靠性如何得到保障。",
+      "edits": [
+        {
+          "name": "文本框 3",
+          "text": "信息提取：从文献到分析材料",
+          "fontSize": 34,
+          "bold": true,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 72.54,
+            "top": 44,
+            "width": 865,
+            "height": 51
+          }
+        },
+        {
+          "name": "文本框 4",
+          "text": "提取内容必须同时服务于研究问题与后续分析",
+          "fontSize": 17,
+          "color": "#566273",
+          "position": {
+            "left": 78.18,
+            "top": 100,
+            "width": 895,
+            "height": 43
+          }
+        },
+        {
+          "name": "矩形 23",
+          "text": "确定提取对象",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 26",
+          "text": "记录研究特征",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 41",
+          "text": "提取核心证据",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 38",
+          "text": "统一编码判断",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 25",
+          "text": "先判断回答研究问题需要哪些信息，再建立一致的提取方式；同一套字段不一定适合所有综述，内容应随研究目的调整。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        },
+        {
+          "name": "矩形 27",
+          "text": "描述性信息可包括作者、发表年份、研究主题与研究类型，用于刻画样本构成，并为后续比较提供清楚的背景。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        },
+        {
+          "name": "矩形 42",
+          "text": "分析材料也可以是研究效应、主要发现、概念界定或理论视角；需要提取什么，应由综述要形成的答案和贡献决定。",
+          "fontSize": 23,
+          "color": "#FFFFFF",
+          "vertical": "middle",
+          "position": {
+            "left": 307.27,
+            "top": 416,
+            "width": 465.33,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 39",
+          "text": "多位评审者应接受训练，并持续监测信息提取；需说明提取过程或评审者一致性，尤其留意主题与观点编码的判断差异。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        }
+      ]
+    },
+    {
+      "templateSlide": 15,
+      "title": "分析综合：形成有解释力的答案",
+      "source": "Snyder（2019），§3.3–3.4，p. 337；§4–5，p. 338。",
+      "notes": "分析方法不能与问题脱节。作者以效应综合和顾客体验理论框架为例，说明相同的分析技术未必适用于不同目标。完成分析后，作者还要解释图表究竟说明什么，把发现放回相关领域，说明它改变了哪些认识。综述可能形成效应证据，也可能形成历史脉络、概念模型或研究议程。是否有贡献，不能仅看用了多少图表或多复杂的技术，而要看它是否回应问题，并为领域增加了有用的知识。",
+      "edits": [
+        {
+          "name": "文本框 3",
+          "text": "分析综合：形成有解释力的答案",
+          "fontSize": 34,
+          "bold": true,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 72.54,
+            "top": 44,
+            "width": 865,
+            "height": 51
+          }
+        },
+        {
+          "name": "文本框 4",
+          "text": "分析技术、提取信息与预期贡献需要相互匹配",
+          "fontSize": 17,
+          "color": "#566273",
+          "position": {
+            "left": 78.18,
+            "top": 100,
+            "width": 895,
+            "height": 43
+          }
+        },
+        {
+          "name": "矩形 8",
+          "text": "从研究材料到新增认识",
+          "fontSize": 30,
+          "bold": true,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 9",
+          "text": "结果需要回答最初的问题。严谨的分析过程、清楚的结果解释和有价值的知识贡献，共同决定综述能否推进研究。",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 17",
+          "text": "匹配分析方法",
+          "fontSize": 25,
+          "bold": true,
+          "position": {
+            "left": 78.4,
+            "top": 511,
+            "width": 306,
+            "height": 40
+          }
+        },
+        {
+          "name": "矩形 12",
+          "text": "解释综合结果",
+          "fontSize": 25,
+          "bold": true,
+          "color": "#183B5C",
+          "position": {
+            "left": 509.07,
+            "top": 511,
+            "width": 302,
+            "height": 40
+          }
+        },
+        {
+          "name": "矩形 22",
+          "text": "形成知识贡献",
+          "fontSize": 25,
+          "bold": true,
+          "position": {
+            "left": 885.54,
+            "top": 511,
+            "width": 318,
+            "height": 40
+          }
+        },
+        {
+          "name": "矩形 18",
+          "text": "分析应能回答研究问题，并适合已提取的材料。效应证据与理论框架需要不同路径，方法不能只凭技术偏好选择。",
+          "fontSize": 21.5,
+          "position": {
+            "left": 78.4,
+            "top": 551,
+            "width": 306,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 13",
+          "text": "展示图表后，还应解释发现及其含义，放回领域情境讨论，让读者理解证据如何支持结论及其适用范围。",
+          "fontSize": 21.5,
+          "color": "#183B5C",
+          "position": {
+            "left": 509.07,
+            "top": 551,
+            "width": 302,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 24",
+          "text": "综合可形成历史脉络、效应证据、概念模型或研究议程。贡献是否充分，应结合领域已有知识和实际需求判断。",
+          "fontSize": 21.5,
+          "position": {
+            "left": 885.54,
+            "top": 551,
+            "width": 318,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 20",
+          "text": "01",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 15",
+          "text": "02",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 29",
+          "text": "03",
+          "fontSize": 22,
+          "color": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "templateSlide": 16,
+      "title": "写作与报告：让研究过程可评价",
+      "source": "Snyder（2019），§3.4，p.337；§4–5，pp.338–339。",
+      "notes": "写作阶段需要把研究目的、方法、结果和贡献组织成一条清楚的论证链。作者强调不同综述类型需要不同信息与细节，并列举相应报告指南。所有路径都应说明文献如何被识别、分析、综合与报告。结果部分不应仅列图表，也应解释发现的意义与情境。贡献最终要结合该领域已有研究判断；使用元分析、文本分析等技术本身不保证研究价值或发表。",
+      "edits": [
+        {
+          "name": "文本框 3",
+          "text": "写作与报告：让研究过程可评价",
+          "fontSize": 34,
+          "bold": true,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 72.54,
+            "top": 44,
+            "width": 865,
+            "height": 51
+          }
+        },
+        {
+          "name": "文本框 4",
+          "text": "报告规范应匹配综述类型，结果解释应直接回应研究问题。",
+          "fontSize": 17,
+          "color": "#566273",
+          "position": {
+            "left": 78.18,
+            "top": 100,
+            "width": 895,
+            "height": 43
+          }
+        },
+        {
+          "name": "矩形 23",
+          "text": "说明必要性",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 26",
+          "text": "报告研究过程",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 41",
+          "text": "解释研究发现",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 38",
+          "text": "论证实际贡献",
+          "fontSize": 26,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "矩形 25",
+          "text": "清楚陈述为什么需要这篇综述、面向哪些读者、回答什么问题，并说明相对于已有综述预期增加的认识。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        },
+        {
+          "name": "矩形 27",
+          "text": "交代文献如何被识别、筛选、提取、分析与综合。报告细节应足以让读者评价研究质量，并适应所选综述类型。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        },
+        {
+          "name": "矩形 42",
+          "text": "围绕研究问题组织结果，说明主要模式、差异及其意义。图表应与解释对应，并把发现放回领域情境理解。",
+          "fontSize": 23,
+          "color": "#FFFFFF",
+          "vertical": "middle",
+          "position": {
+            "left": 307.27,
+            "top": 416,
+            "width": 465.33,
+            "height": 114
+          }
+        },
+        {
+          "name": "矩形 39",
+          "text": "说明综合如何形成理论或实践上的新增认识，并提出有依据的后续研究方向。方法或技术复杂本身不能证明贡献。",
+          "fontSize": 23,
+          "color": "#202A36",
+          "vertical": "middle"
+        }
+      ]
+    },
+    {
+      "templateSlide": 8,
+      "title": "质量与发表：四个常见问题",
+      "source": "Snyder（2019），§4–5、表 4，p. 338；§5，p. 339。",
+      "notes": "作者归纳的发表障碍可以对应四个检查点。第一，方法是否交代到读者能够判断的程度；第二，样本是否因操作便利被过度缩减；第三，是否解释了结果，而不只是展示图表；第四，是否形成了实质贡献。原文明确指出，元分析、文本分析或机器学习本身都不保证发表。技术必须服务于相关而有意义的问题，帮助解释领域发展、比较相关概念，或识别真实的知识空白。",
+      "edits": [
+        {
+          "name": "文本框 6",
+          "text": "质量与发表",
+          "fontSize": 54,
+          "color": "#FFFFFF",
+          "position": {
+            "left": 67.29,
+            "top": 134.62,
+            "width": 370,
+            "height": 107
+          }
+        },
+        {
+          "name": "文本框 9",
+          "text": "Quality",
+          "fontSize": 40,
+          "color": "#FFFFFF",
+          "position": {
+            "left": 466,
+            "top": 165.39,
+            "width": 390,
+            "height": 75
+          }
+        },
+        {
+          "name": "文本框 7",
+          "text": "过程严谨、结果清晰与实质贡献，需要结合综述类型和领域现状共同判断。",
+          "fontSize": 23,
+          "color": "#FFFFFF",
+          "position": {
+            "left": 81.85,
+            "top": 246.18,
+            "width": 790,
+            "height": 65
+          }
+        },
+        {
+          "name": "文本框 13",
+          "text": "01",
+          "fontSize": 31,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 14",
+          "text": "方法交代",
+          "fontSize": 27,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 15",
+          "text": "过程是否可评价",
+          "fontSize": 20,
+          "color": "#536275",
+          "height": 31
+        },
+        {
+          "name": "文本框 16",
+          "text": "说明检索筛选与分析\n让读者判断可信度",
+          "fontSize": 20.5,
+          "color": "#26384F",
+          "height": 82
+        },
+        {
+          "name": "文本框 52",
+          "text": "02",
+          "fontSize": 31,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 53",
+          "text": "样本边界",
+          "fontSize": 27,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 54",
+          "text": "限制是否有依据",
+          "fontSize": 20,
+          "color": "#536275",
+          "height": 31
+        },
+        {
+          "name": "文本框 55",
+          "text": "防止遗漏相关证据\n文献多时先聚焦问题",
+          "fontSize": 20.5,
+          "color": "#26384F",
+          "height": 82
+        },
+        {
+          "name": "文本框 58",
+          "text": "03",
+          "fontSize": 31,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 59",
+          "text": "结果解释",
+          "fontSize": 27,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 60",
+          "text": "发现意味着什么",
+          "fontSize": 20,
+          "color": "#536275",
+          "height": 31
+        },
+        {
+          "name": "文本框 61",
+          "text": "图表需要具体解释\n联系研究情境讨论",
+          "fontSize": 20.5,
+          "color": "#26384F",
+          "height": 82
+        },
+        {
+          "name": "文本框 64",
+          "text": "04",
+          "fontSize": 31,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 65",
+          "text": "研究贡献",
+          "fontSize": 27,
+          "bold": true,
+          "color": "#2D4F8F"
+        },
+        {
+          "name": "文本框 66",
+          "text": "增加了什么认识",
+          "fontSize": 20,
+          "color": "#536275",
+          "height": 31
+        },
+        {
+          "name": "文本框 67",
+          "text": "超越数量与主题描述\n形成理论或实践认识",
+          "fontSize": 20.5,
+          "color": "#26384F",
+          "height": 82
+        }
+      ]
+    },
+    {
+      "templateSlide": 12,
+      "title": "本文的主要贡献",
+      "source": "Snyder（2019），§1，pp.333–334；§3，p.336；§4，p.338；§6，p.339。",
+      "notes": "这里将文章贡献和我们的阅读评议分开。作者认为，高质量综述能成为未来研究和理论发展的基础，帮助减少重复研究并提高问题与假设的准确性。本文的实际贡献，是把常见方法、四阶段流程和质量评价问题放在同一框架下。汇报者据原文范围作出的判断是：它更适合作为方法选择与流程规划的起点。作者自己也说明综述类型不止三类，方法还可能组合使用，具体研究需要进一步适配。",
+      "edits": [
+        {
+          "name": "文本框 5",
+          "text": "15",
+          "fontSize": 56,
+          "color": "#C9DCEE"
+        },
+        {
+          "name": "文本框 6",
+          "text": "论文贡献",
+          "fontSize": 65,
+          "bold": true,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "文本框 7",
+          "text": "为方法选择与过程评价提供整体指引",
+          "fontSize": 24,
+          "color": "#E1EBF7",
+          "position": {
+            "left": 67.64,
+            "top": 365.57,
+            "width": 485,
+            "height": 47
+          }
+        },
+        {
+          "name": "文本框 8",
+          "text": "方法：区分常见综述路径，强调问题与方法的匹配。\n流程：综合既有指南，串联设计、执行、分析与写作。\n评价：给出阶段性检查问题，帮助判断质量与贡献。",
+          "fontSize": 25,
+          "color": "#FFFFFF",
+          "position": {
+            "left": 67.64,
+            "top": 433,
+            "width": 526,
+            "height": 219
+          }
+        },
+        {
+          "name": "文本框 9",
+          "text": "SCUT\nPAPER REVIEW",
+          "fontSize": 13,
+          "color": "#E1EBF7"
+        }
+      ]
+    },
+    {
+      "templateSlide": 18,
+      "title": "使用边界与研究启示",
+      "source": "依据 Snyder（2019），§2.1、§2.2、§3–4，pp.334–338；本页应用判断为汇报者评议。",
+      "notes": "本文是一篇方法概览与指南，其用途首先在于选择路径、规划流程和提出质量问题。汇报者据原文范围作出的评议是：它并未穷尽综述类型，也不提供可直接适用于所有领域的统一操作程序。具体项目仍应依据所选方法查阅详细规范，明确数据库、检索式、编码规则与综合办法。原文亦提醒，方法要素可以组合，不同类型和领域的质量标准需要适配。将这些原则落实为可执行方案，才能形成可信的研究结果。",
+      "edits": [
+        {
+          "name": "文本框 5",
+          "text": "使用边界与研究启示",
+          "fontSize": 34,
+          "bold": true,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 72.54,
+            "top": 44,
+            "width": 865,
+            "height": 51
+          }
+        },
+        {
+          "name": "文本框 6",
+          "text": "基于原文范围的汇报者评议",
+          "fontSize": 17,
+          "color": "#566273",
+          "position": {
+            "left": 78.18,
+            "top": 100,
+            "width": 895,
+            "height": 43
+          }
+        },
+        {
+          "name": "矩形 9",
+          "text": "把整体指南落实为具体研究",
+          "fontSize": 27,
+          "bold": true,
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "矩形 10",
+          "text": "路径选择：三类方法并非穷尽分类，\n也可能按问题组合使用。\n具体执行：检索、编码与综合规则，\n仍需结合领域和所选方法细化。",
+          "fontSize": 22,
+          "color": "#FFFFFF",
+          "position": {
+            "left": 758.91,
+            "top": 465,
+            "width": 400.22,
+            "height": 163
+          }
+        },
+        {
+          "name": "文本框 13",
+          "text": "本文适合作为研究设计与质量自查的起点。\n开展具体项目时，还需查阅相应方法的详细规范，\n把问题、证据范围与分析步骤写成可执行方案。",
+          "fontSize": 22,
+          "color": "#25364B",
+          "height": 86
+        }
+      ]
+    },
+    {
+      "templateSlide": 19,
+      "title": "结论与启示",
+      "source": "第6节，p.339；第2–5节，pp.334–339",
+      "notes": "本文最直接的启示，是把综述当作需要提前设计的研究。先明确问题，再选择方法，并让每一步有据可查。最终用综合发现，为后续研究提供更准确、更有价值的起点。",
+      "edits": [
+        {
+          "name": "矩形 27",
+          "text": "让综述成为严谨研究",
+          "fontSize": 54,
+          "bold": true,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 270,
+            "top": 183,
+            "width": 740,
+            "height": 100
+          },
+          "align": "center"
+        },
+        {
+          "name": "文本框 29",
+          "text": "问题清楚 · 过程透明 · 综合有贡献",
+          "fontSize": 24,
+          "color": "#2D4F8F",
+          "align": "center"
+        },
+        {
+          "name": "文本框 30",
+          "text": "选对方法，留下可核查的依据；\n让综合发现成为后续研究的起点。",
+          "fontSize": 23,
+          "color": "#2D4F8F",
+          "position": {
+            "left": 295,
+            "top": 351,
+            "width": 690,
+            "height": 77
+          },
+          "align": "center"
+        }
+      ]
+    }
+  ]
+}

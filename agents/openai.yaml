@@ -1,0 +1,7 @@
+interface:
+  display_name: "华工蓝论文PPT"
+  short_description: "制作华工可编辑学术汇报与开题答辩，含原华工蓝及四套开题模板、配图和预览"
+  brand_color: "#2D4F8F"
+  default_prompt: "请用 $scut-paper-ppt 根据这份材料和所选华工模板制作可编辑汇报，并逐页核对内容与版式。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,16 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import os from 'node:os';
+import {pathToFileURL} from 'node:url';
+const a=process.argv.slice(2);const get=(k,d)=>{let i=a.indexOf(k);return i<0?d:a[i+1]};
+for(const k of ['--candidate','--output','--workspace','--skill-dir','--plan'])if(!get(k))throw Error(`Required argument ${k}`);
+const workspaceDir=path.resolve(get('--workspace')), candidatePath=path.resolve(get('--candidate')), finalPath=path.resolve(get('--output')),skill=path.resolve(get('--skill-dir'));
+const plan=get('--plan')?JSON.parse((await fs.readFile(get('--plan'),'utf8')).replace(/^\uFEFF/,'')):null;
+const tableLayouts=new Set(['comparison','synthesis','quality']);
+const tables=plan?plan.slides.flatMap((s,i)=>tableLayouts.has(s.layout)?[i+1]:[]):[];
+const root=path.join(os.homedir(),'.cache/codex-runtimes/codex-primary-runtime/dependencies');
+process.env.RUNTIME_NODE_MODULES=path.join(root,'node/node_modules');
+const {finalizePresentation}=await import(pathToFileURL(path.join(skill,'container_tools/artifact_tool_utils.mjs')).href);
+await fs.mkdir(path.dirname(finalPath),{recursive:true});await fs.mkdir(path.join(workspaceDir,'work/validation'),{recursive:true});
+const result=await finalizePresentation({workspaceDir,candidatePath,finalPath,pythonExecutable:path.join(root,'python/python.exe'),integrityValidatorPath:path.join(skill,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(skill,'container_tools/inspect_presentation_layout_geometry.py'),explicitTotalSlideCount:plan?.slides.length,requiredNativeTableOwnerSlides:tables,requiredNativeChartOwnerSlides:[],fontPolicy:{basis:'design',families:['Microsoft YaHei']},layoutArgs:['--expected-slide-size-emu','12192000,6858000','--validate-bullet-geometry','--validate-heading-fit',...tables.flatMap(i=>['--require-native-table-slide',String(i)])],verifyArtifactToolImport:true,receiptPath:path.join(workspaceDir,'work/validation',path.basename(finalPath)+'.validation.json')});
+console.log(JSON.stringify(result));

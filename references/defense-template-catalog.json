@@ -1,0 +1,373 @@
+{
+  "path_base": "skill_root",
+  "default_template": "assets/scut-blue-template.pptx",
+  "template_count": 4,
+  "total_pages": 59,
+  "index": "assets/defense-templates/版式索引.html",
+  "overview": "assets/defense-templates/模板总览.jpg",
+  "templates": [
+    {
+      "id": "template-1",
+      "name": "模板一",
+      "pptx": "assets/defense-templates/模板一.pptx",
+      "potx": "assets/defense-templates/模板一.potx",
+      "preview": "assets/defense-templates/模板一_全页预览.jpg",
+      "preview_directory": "assets/defense-templates/版式预览/模板一",
+      "slide_count": 13,
+      "slide_size_emu": [
+        12192000,
+        6858000
+      ],
+      "sha256": "98fc570af6187f66ccb3d47d640fefda036f335fc2ce5f65e33aa2a7ce946365",
+      "style": "华工蓝、校徽水印、横向章节带，适合需要多栏说明和目标分层的报告。",
+      "pages": [
+        {
+          "page": 1,
+          "purpose": "学位论文开题封面",
+          "source_page": 1
+        },
+        {
+          "page": 2,
+          "purpose": "五章节目录",
+          "source_page": 2
+        },
+        {
+          "page": 3,
+          "purpose": "校徽水印章节页",
+          "source_page": 3
+        },
+        {
+          "page": 4,
+          "purpose": "双栏意义对比",
+          "source_page": 5
+        },
+        {
+          "page": 5,
+          "purpose": "文献进展与不足分栏",
+          "source_page": 7
+        },
+        {
+          "page": 6,
+          "purpose": "概念理论上下分区",
+          "source_page": 8
+        },
+        {
+          "page": 7,
+          "purpose": "四项目标与研究任务",
+          "source_page": 11
+        },
+        {
+          "page": 8,
+          "purpose": "中心目标与三模块关系",
+          "source_page": 15
+        },
+        {
+          "page": 9,
+          "purpose": "多图技术路线与方法说明",
+          "source_page": 17
+        },
+        {
+          "page": 10,
+          "purpose": "三项研究基础",
+          "source_page": 19
+        },
+        {
+          "page": 11,
+          "purpose": "研究条件与解决途径",
+          "source_page": 20
+        },
+        {
+          "page": 12,
+          "purpose": "研究进度表",
+          "source_page": 21
+        },
+        {
+          "page": 13,
+          "purpose": "致谢结束页",
+          "source_page": 22
+        }
+      ]
+    },
+    {
+      "id": "template-2",
+      "name": "模板二",
+      "pptx": "assets/defense-templates/模板二.pptx",
+      "potx": "assets/defense-templates/模板二.potx",
+      "preview": "assets/defense-templates/模板二_全页预览.jpg",
+      "preview_directory": "assets/defense-templates/版式预览/模板二",
+      "slide_count": 15,
+      "slide_size_emu": [
+        12192000,
+        6858000
+      ],
+      "sha256": "2cad6abcd079fd231456d5148a19be7722391d9853b1b8e5266567c7fa9a1a7e",
+      "style": "曲线五项导航、深蓝页眉，含原生流程与阶段推进布局。",
+      "pages": [
+        {
+          "page": 1,
+          "purpose": "开题报告封面",
+          "source_page": 1
+        },
+        {
+          "page": 2,
+          "purpose": "五章节曲线目录",
+          "source_page": 2
+        },
+        {
+          "page": 3,
+          "purpose": "章节过渡与曲线导航",
+          "source_page": 3
+        },
+        {
+          "page": 4,
+          "purpose": "双栏背景与问题分析",
+          "source_page": 4
+        },
+        {
+          "page": 5,
+          "purpose": "理论综述与双主题分栏",
+          "source_page": 7
+        },
+        {
+          "page": 6,
+          "purpose": "三层研究目标正文",
+          "source_page": 10
+        },
+        {
+          "page": 7,
+          "purpose": "理论与研究模块关联框架",
+          "source_page": 11
+        },
+        {
+          "page": 8,
+          "purpose": "研究内容与要素分析流程",
+          "source_page": 12
+        },
+        {
+          "page": 9,
+          "purpose": "五阶段研究流程",
+          "source_page": 13
+        },
+        {
+          "page": 10,
+          "purpose": "正文与建模反馈流程",
+          "source_page": 14
+        },
+        {
+          "page": 11,
+          "purpose": "研究方法与图示技术路线",
+          "source_page": 16
+        },
+        {
+          "page": 12,
+          "purpose": "三项研究基础卡片",
+          "source_page": 18
+        },
+        {
+          "page": 13,
+          "purpose": "研究条件与解决途径对照",
+          "source_page": 19
+        },
+        {
+          "page": 14,
+          "purpose": "八阶段进度计划表",
+          "source_page": 20
+        },
+        {
+          "page": 15,
+          "purpose": "城市背景致谢页",
+          "source_page": 21
+        }
+      ]
+    },
+    {
+      "id": "template-3",
+      "name": "模板三",
+      "pptx": "assets/defense-templates/模板三.pptx",
+      "potx": "assets/defense-templates/模板三.potx",
+      "preview": "assets/defense-templates/模板三_全页预览.jpg",
+      "preview_directory": "assets/defense-templates/版式预览/模板三",
+      "slide_count": 16,
+      "slide_size_emu": [
+        12192000,
+        6858000
+      ],
+      "sha256": "2372d36239b63f27affc3addf6a7e5a2cdadebf78713de23cd0eacc7233cafe1",
+      "style": "青蓝导航、递进圆环与桥梁背景，适合研究方案、方法与阶段工作展示。",
+      "pages": [
+        {
+          "page": 1,
+          "purpose": "校徽居中封面",
+          "source_page": 1
+        },
+        {
+          "page": 2,
+          "purpose": "图标路径目录",
+          "source_page": 2
+        },
+        {
+          "page": 3,
+          "purpose": "目录式章节导航",
+          "source_page": 3
+        },
+        {
+          "page": 4,
+          "purpose": "背景概述与双层意义",
+          "source_page": 4
+        },
+        {
+          "page": 5,
+          "purpose": "三栏综述与综合述评",
+          "source_page": 6
+        },
+        {
+          "page": 6,
+          "purpose": "三项错位研究目标",
+          "source_page": 8
+        },
+        {
+          "page": 7,
+          "purpose": "分层研究内容",
+          "source_page": 9
+        },
+        {
+          "page": 8,
+          "purpose": "三项关键问题",
+          "source_page": 13
+        },
+        {
+          "page": 9,
+          "purpose": "四区研究方法",
+          "source_page": 14
+        },
+        {
+          "page": 10,
+          "purpose": "技术路线大图",
+          "source_page": 15
+        },
+        {
+          "page": 11,
+          "purpose": "三项创新点",
+          "source_page": 16
+        },
+        {
+          "page": 12,
+          "purpose": "前期工作与证据图",
+          "source_page": 18
+        },
+        {
+          "page": 13,
+          "purpose": "项目与成果清单",
+          "source_page": 19
+        },
+        {
+          "page": 14,
+          "purpose": "七章研究结构",
+          "source_page": 21
+        },
+        {
+          "page": 15,
+          "purpose": "两列研究进度表",
+          "source_page": 22
+        },
+        {
+          "page": 16,
+          "purpose": "桥梁背景结束页",
+          "source_page": 23
+        }
+      ]
+    },
+    {
+      "id": "template-4",
+      "name": "模板四",
+      "pptx": "assets/defense-templates/模板四.pptx",
+      "potx": "assets/defense-templates/模板四.potx",
+      "preview": "assets/defense-templates/模板四_全页预览.jpg",
+      "preview_directory": "assets/defense-templates/版式预览/模板四",
+      "slide_count": 15,
+      "slide_size_emu": [
+        9144000,
+        5143500
+      ],
+      "sha256": "94f199984cb3835c151f17aad4836d61081f620494ecdbb20f91ffc14a400657",
+      "style": "深蓝学位帽与灰蓝章节页，含四象限比较、平衡示意及章节安排。",
+      "pages": [
+        {
+          "page": 1,
+          "purpose": "学位帽封面",
+          "source_page": 1
+        },
+        {
+          "page": 2,
+          "purpose": "曲线五项导航目录",
+          "source_page": 2
+        },
+        {
+          "page": 3,
+          "purpose": "深蓝灰章节页",
+          "source_page": 3
+        },
+        {
+          "page": 4,
+          "purpose": "背景依据与研究意义",
+          "source_page": 4
+        },
+        {
+          "page": 5,
+          "purpose": "双栏四象限比较",
+          "source_page": 6
+        },
+        {
+          "page": 6,
+          "purpose": "总目标与分目标",
+          "source_page": 8
+        },
+        {
+          "page": 7,
+          "purpose": "正文与资料清单",
+          "source_page": 9
+        },
+        {
+          "page": 8,
+          "purpose": "左文右图",
+          "source_page": 10
+        },
+        {
+          "page": 9,
+          "purpose": "双问题平衡示意",
+          "source_page": 12
+        },
+        {
+          "page": 10,
+          "purpose": "阶段工作清单",
+          "source_page": 13
+        },
+        {
+          "page": 11,
+          "purpose": "方法说明与配图",
+          "source_page": 15
+        },
+        {
+          "page": 12,
+          "purpose": "整页技术路线",
+          "source_page": 16
+        },
+        {
+          "page": 13,
+          "purpose": "六章结构安排",
+          "source_page": 17
+        },
+        {
+          "page": 14,
+          "purpose": "进度表",
+          "source_page": 19
+        },
+        {
+          "page": 15,
+          "purpose": "学位帽结束页",
+          "source_page": 20
+        }
+      ]
+    }
+  ]
+}
