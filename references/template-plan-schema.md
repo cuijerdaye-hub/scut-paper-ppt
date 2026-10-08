@@ -12,7 +12,7 @@
 | `template` | string | 源 PPTX 路径；相对路径以计划文件所在目录为基准 |
 | `slides` | array | 按最终放映顺序排列的页面计划 |
 
-默认模板为技能目录下的 `assets/scut-blue-template.pptx`。位于 `examples/` 的计划使用 `"template": "../assets/scut-blue-template.pptx"`。其他位置的计划应调整路径或使用绝对路径。 四套开题模板按 [模板库](defense-template-library.md) 的副本编辑流程使用；目录中的 `page` 是放映页序。本文字段和下方专用脚本用于原有华工蓝流程，其他模板须先验证页部件映射、对象定位及画布兼容性。
+默认模板为技能目录下的 `assets/scut-blue-template.pptx`。位于 `examples/` 的计划使用 `"template": "../assets/scut-blue-template.pptx"`。其他位置的计划应调整路径或使用绝对路径。 五套学术汇报与答辩模板按 [模板库](defense-template-library.md) 的副本编辑流程使用；目录中的 `page` 是放映页序。本文字段和下方专用脚本用于原有华工蓝流程，其他模板须先验证页部件映射、对象定位及画布兼容性。
 
 ## 每页字段
 

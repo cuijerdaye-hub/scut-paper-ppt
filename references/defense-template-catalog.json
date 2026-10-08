@@ -1,8 +1,8 @@
 {
   "path_base": "skill_root",
   "default_template": "assets/scut-blue-template.pptx",
-  "template_count": 4,
-  "total_pages": 59,
+  "template_count": 5,
+  "total_pages": 67,
   "index": "assets/defense-templates/版式索引.html",
   "overview": "assets/defense-templates/模板总览.jpg",
   "templates": [
@@ -366,6 +366,70 @@
           "page": 15,
           "purpose": "学位帽结束页",
           "source_page": 20
+        }
+      ]
+    },
+    {
+      "id": "template-5",
+      "name": "模板五",
+      "pptx": "assets/defense-templates/模板五.pptx",
+      "potx": "assets/defense-templates/模板五.potx",
+      "preview": "assets/defense-templates/模板五_全页预览.jpg",
+      "preview_directory": "assets/defense-templates/版式预览/模板五",
+      "slide_count": 8,
+      "slide_size_emu": [
+        12192000,
+        6858000
+      ],
+      "sha256": "df16389ab99253f534e36d7bc51069d2968cb592b5ffb2f02639ea050a0d8be8",
+      "style": "天空页眉、深蓝横幅、红色标题与黄色重点，含双组多图对照、阶段时间轴、三栏图文和四图说明。",
+      "profile": "references/template-five-profile.md",
+      "example_image_pages": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pages": [
+        {
+          "page": 1,
+          "purpose": "封面",
+          "source_page": 1
+        },
+        {
+          "page": 2,
+          "purpose": "五项汇报目录",
+          "source_page": 2
+        },
+        {
+          "page": 3,
+          "purpose": "章节过渡",
+          "source_page": 3
+        },
+        {
+          "page": 4,
+          "purpose": "双组多图案例对照",
+          "source_page": 4
+        },
+        {
+          "page": 5,
+          "purpose": "研究基础与阶段推进",
+          "source_page": 5
+        },
+        {
+          "page": 6,
+          "purpose": "三栏研究维度",
+          "source_page": 6
+        },
+        {
+          "page": 7,
+          "purpose": "技术路线与应用场景",
+          "source_page": 7
+        },
+        {
+          "page": 8,
+          "purpose": "总结与致谢",
+          "source_page": 8
         }
       ]
     }
